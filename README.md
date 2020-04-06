@@ -1,2 +1,2 @@
 # Optimisation and Decision Models
-Several optimisations problems solved via AMPL.
+The solutions include linear, discrete and non-linear optimisation problems.
